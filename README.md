@@ -1,1 +1,2 @@
-# Trabalho feito para a matéria Algoritimos-em-Grafos do curso Ciência da Computação da UERJ
+# Algoritimos em Grafos 
+Trabalho feito para a matéria Algoritimos-em-Grafos do curso Ciência da Computação da UERJ
